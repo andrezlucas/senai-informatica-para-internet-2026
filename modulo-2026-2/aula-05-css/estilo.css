@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+    font-family: fantasy;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+    color: brown;
+}
+form{
+    background-color: cornsilk;
+}
+label{
+    
+}
+fieldset{
+    border-radius: 10%;
+    background-color: burlywood;
+    
+}
+button{
+    background-color: wheat;
+}
+#cpf{ 
+    background-color: blueviolet;
+}
+

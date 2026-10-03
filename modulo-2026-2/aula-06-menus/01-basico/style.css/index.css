@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+
+nav{
+    background-color: chocolate;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    float: right;
+    border-radius: 5px;  
+}
+
+nav a{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 8px 12px;
+    transition: 0.3;
+}
+
+nav a:hover{
+    color: aqua;
+    background-color: black;
+    border-radius: 5px;
+
+}
